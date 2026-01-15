@@ -15,7 +15,7 @@ require (
 	github.com/openshift/api v0.0.0-20231118005202-0f638a8a4705
 	github.com/prometheus/client_golang v1.15.1
 	github.com/spf13/viper v1.8.1
-	github.com/stretchr/testify v1.8.3
+	github.com/stretchr/testify v1.10.0
 	go.uber.org/zap v1.24.0
 	k8s.io/api v0.27.2
 	k8s.io/apimachinery v0.27.2
@@ -73,7 +73,7 @@ require (
 	github.com/prometheus/common v0.42.0 // indirect
 	github.com/prometheus/procfs v0.9.0 // indirect
 	github.com/rs/xid v1.5.0 // indirect
-	github.com/sirupsen/logrus v1.9.2 // indirect
+	github.com/sirupsen/logrus v1.9.4 // indirect
 	github.com/spf13/afero v1.9.2 // indirect
 	github.com/spf13/cast v1.3.1 // indirect
 	github.com/spf13/cobra v1.6.0 // indirect
