@@ -1,6 +1,6 @@
 module github.com/opendatahub-io/data-science-pipelines-operator
 
-go 1.21
+go 1.25.0
 
 require (
 	github.com/anthhub/forwarder v1.1.0
@@ -88,7 +88,7 @@ require (
 	golang.org/x/net v0.25.0 // indirect
 	golang.org/x/oauth2 v0.7.0 // indirect
 	golang.org/x/sync v0.10.0 // indirect
-	golang.org/x/sys v0.28.0 // indirect
+	golang.org/x/sys v0.46.0 // indirect
 	golang.org/x/term v0.27.0 // indirect
 	golang.org/x/text v0.21.0 // indirect
 	golang.org/x/time v0.3.0 // indirect
