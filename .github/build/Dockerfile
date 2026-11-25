@@ -1,4 +1,4 @@
-ARG CI_BASE=registry.access.redhat.com/ubi8/go-toolset:1.21
+ARG CI_BASE=registry.access.redhat.com/ubi8/go-toolset:1.26.11-1795526965
 
 FROM ${CI_BASE} as stage1
 
